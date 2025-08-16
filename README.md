@@ -16,14 +16,14 @@
 // Web Dev, Cloud Computing, UI/UX, and the fascinating world of AI.
 
 const Rami = {
-  location: "Morocco",
+  location: "Tunisia",
   education: ["Full stack Developer ", "alx back-end"],
   learning: {
-    rightNow: ["ReactJS", "TailwindCSS", "Advanced JS"],
+    rightNow: ["ReactJS", "TailwindCSS", "Advanced JS" , "Next.JS],
     upNext: ["Node.js", "Express.js", "MongoDB"]
   },
   interests: {
-    professional: ["Web Development", "UI/UX Design", "Cloud Computing", "AI"],
+    professional: ["Web Development", "UI/UX Design", "Business Intelligence"],
     personal: ["Competitive Gaming", "Problem Solving", "Content Creation"]
   },
   challenge: "I'm always ready for the next one."
@@ -71,7 +71,7 @@ const Rami = {
 ### 🌎 Connect With Me
 
 <div align="center">
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/rami-ben-ferjani-072150315/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="" target="_blank">
@@ -84,7 +84,7 @@ const Rami = {
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://discord.gg/your-invite" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
