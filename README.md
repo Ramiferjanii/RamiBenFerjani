@@ -15,7 +15,7 @@
 // My journey is driven by a curiosity for what's next, pushing me to explore 
 // Web Dev, Cloud Computing, UI/UX, and the fascinating world of AI.
 
-const zakaria = {
+const Rami = {
   location: "Morocco",
   education: ["Full stack Developer ", "alx back-end"],
   learning: {
